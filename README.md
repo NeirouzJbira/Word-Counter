@@ -20,7 +20,7 @@ In the above pattern:
 ### To view
 See live website here: 
 - https://NeirouzJbira.github.io/Word-Counter/
-- 
+
 ### Technologies
 
 - HTML5
