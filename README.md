@@ -17,6 +17,10 @@ In the above pattern:
 
 ![quick website demo](website-demo.gif)
 
+### To view
+See live website here: 
+- https://NeirouzJbira.github.io/Word-Counter/
+- 
 ### Technologies
 
 - HTML5
